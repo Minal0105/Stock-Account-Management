@@ -3,10 +3,7 @@ package com.Bridgelabz;
 
 
 public class Stock {
-
-
-
-        private String name;
+    private String name;
         private int numberOfShares;
         private double sharePrice;
 

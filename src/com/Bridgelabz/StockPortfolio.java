@@ -52,7 +52,6 @@ public class StockPortfolio {
             stockPortfolio.addStock(stock);
             System.out.println();
         }
-
         stockPortfolio.printStockReport();
     }
 }
